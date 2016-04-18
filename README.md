@@ -1,4 +1,4 @@
-# QuoteGenerator
+# QuoteGeneratorAPI
 Quote Generator API
 
 Made with Flask
