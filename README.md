@@ -15,8 +15,8 @@ Features:
 Installation:
 =============
 * Create and activate your python virtualenv.
-* Get the files app.py, quotes.js and requirements.txt
-* File the quotes.json file qith your own quotes,author and ids. See the file, it's simple.
+* Get the files: app.py, quotes.js and requirements.txt
+* Fill the quotes.json file with your own quotes, author and ids. See the file, it's simple.
 * execute: `pip install -r requirements.txt`.
 * execute: `python app.py`
 * go to: [http://127.0.0.1:5000/quotes/api/random](http://127.0.0.1:5000/quotes/api/random) 
