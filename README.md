@@ -12,5 +12,7 @@ Features:
 
 Installation:
 =============
-
-
+* Create and activate your python virtualenv.
+* Get the files app.py, quotes.js and requirements.txt
+* File the quotes.json file qith your own quotes,author and ids. See the file, it's simple.
+* execute: `pip install -r requirements.txt`.
